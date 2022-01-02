@@ -1,0 +1,9 @@
+#Cache Files
+__pycache__/
+
+#Session File
+URL_Uploader.session
+
+#Test File
+testexp/
+
